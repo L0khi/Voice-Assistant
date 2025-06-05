@@ -1,0 +1,8 @@
+pyttsx3
+SpeechRecognition
+yt-dlp
+requests
+PyPDF2
+yfinance
+beautifulsoup4
+pyaudio
