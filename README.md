@@ -3,7 +3,7 @@
 A lightweight Python voice assistant that can:
 
 - Play music via YouTube
-- Get weather and news updates
+- Get weather and news updates(soon via API)
 - Check stock prices
 - Read PDF and webpages aloud
 - Set timers
